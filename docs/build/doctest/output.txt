@@ -1,0 +1,17 @@
+Results of doctest builder run on 2025-08-21 11:39:43
+=====================================================
+
+Document: usage
+---------------
+1 item passed all tests:
+   2 tests in default
+2 tests in 1 item.
+2 passed.
+Test passed.
+
+Doctest summary
+===============
+    2 tests
+    0 failures in tests
+    0 failures in setup code
+    0 failures in cleanup code

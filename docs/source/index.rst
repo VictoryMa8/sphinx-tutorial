@@ -15,3 +15,13 @@ Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
 
    This project is under active development.
 
+Check out the :doc:`usage` section for further information, including how to
+:ref:`install <installation>` the project.
+
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
