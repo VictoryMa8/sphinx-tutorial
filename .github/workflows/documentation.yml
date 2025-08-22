@@ -31,7 +31,7 @@ jobs:
         make html
         
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions/deploy-pages@v4 
+      uses: actions/deploy-pages@v4 
       if: github.ref == 'refs/heads/main' 
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
